@@ -4,67 +4,67 @@ date: 2019-04-18T12:33:46+10:00
 weight: 6
 ---
 
-Generative art decor offers immersive experiences for diverse audiences. Our team collaborates with clients for seamless and harmonious installations.
+El arte generativo en decoración ofrece experiencias inmersivas para diversos públicos. Nuestro equipo colabora con los clientes para instalaciones armoniosas y sin problemas.
 
 ![Conference](/images/illustrations/conference.png)
 
-Our skilled team recognizes the importance of installation in generative art decorations and collaborates with clients for perfect execution. With proficiency in designing and installing intricate generative art pieces, we manage projects of any size and scope. From conception to completion, we take pride in providing top-notch installations that elevate the aesthetic and significance of each display.
+Nuestro experimentado equipo reconoce la importancia de la instalación en las decoraciones de arte generativo y colabora con los clientes para lograr una ejecución perfecta. Con habilidades en diseño e instalación de complejas piezas de arte generativo, gestionamos proyectos de cualquier tamaño y alcance. Desde la concepción hasta la finalización, nos enorgullecemos de proporcionar instalaciones de alta calidad que realzan la estética y la importancia de cada exhibición.
 
-# Introduction
+# Introducción
 
-We comprehend the distinct challenges of presenting generative art and are committed to offering flawless installation solutions that materialize your creative vision. Our seasoned team of technicians and installers, passionate about generative art, provide exceptional service to ensure that each piece captivates and resonates with viewers.
+Comprendemos los desafíos específicos de presentar arte generativo y estamos comprometidos en ofrecer soluciones de instalación impecables que materialicen su visión creativa. Nuestro experimentado equipo de técnicos e instaladores, apasionados por el arte generativo, brinda un servicio excepcional para asegurar que cada pieza cautive y resuene con los espectadores.
 
-## Versatile Installation Formats
+## Versátiles formatos de instalación
 
-Our team possesses vast experience with diverse generative art formats and installations for both interior and exterior decoration, ensuring compatibility and seamless integration in various settings. Our expertise encompasses a broad range of formats, including:
+Nuestro equipo cuenta con una amplia experiencia en diversos formatos de arte generativo e instalaciones tanto para decoración interior como exterior, asegurando compatibilidad e integración perfecta en varios entornos. Nuestra experiencia abarca una amplia gama de formatos, que incluyen:
 
-1. 2D and 3D animations: Using advanced tools and techniques, we create visually striking moving images that highlight the dynamic essence of generative art, enhancing interior and exterior spaces.
+1. Animaciones 2D y 3D: Utilizando herramientas y técnicas avanzadas, creamos imágenes en movimiento visualmente impactantes que resaltan la esencia dinámica del arte generativo, mejorando espacios interiores y exteriores.
 
-2. Data-driven visualizations: We transform complex data sets into visually engaging displays for both indoor and outdoor environments, crafting meaningful pieces that convey compelling narratives.
+2. Visualizaciones basadas en datos: Transformamos conjuntos de datos complejos en exhibiciones visualmente atractivas para entornos tanto interiores como exteriores, creando piezas significativas que transmiten narrativas interesantes.
 
-3. AI-generated art: Our experience with AI-generated art employs cutting-edge artificial intelligence and machine learning to produce innovative artwork that pushes artistic boundaries and elevates interior and exterior spaces.
+3. Arte generado por inteligencia artificial: Nuestra experiencia con arte generado por IA emplea inteligencia artificial y aprendizaje automático de vanguardia para producir obras de arte innovadoras que desafían los límites artísticos y mejoran espacios interiores y exteriores.
 
-4. Interactive installations: We design and develop installations that respond to user input, such as touch or movement, for both interior and exterior settings, allowing visitors to interact with and influence the generative art displayed.
+4. Instalaciones interactivas: Diseñamos y desarrollamos instalaciones que responden a la entrada del usuario, como el tacto o el movimiento, tanto para entornos interiores como exteriores, permitiendo a los visitantes interactuar e influir en el arte generativo exhibido.
 
-5. Immersive environments: By combining projection mapping, lighting, and sound design, we create visually stunning and engaging spaces for both indoor and outdoor areas, uniquely showcasing generative art.
+5. Entornos inmersivos: Combinando mapeo de proyección, iluminación y diseño de sonido, creamos espacios visualmente impactantes y atractivos tanto para áreas interiores como exteriores, mostrando de manera única el arte generativo.
 
-6. 2D prints: We also produce high-quality 2D prints suitable for interior and exterior display, enabling collectors and enthusiasts to own physical copies of these distinctive and dynamic works of art.
+6. Impresiones 2D: También producimos impresiones 2D de alta calidad adecuadas para exhibición interior y exterior, permitiendo a coleccionistas y entusiastas poseer copias físicas de estas distintivas y dinámicas obras de arte.
 
-7. 3D sculptures: Combining traditional sculpture methods with digital fabrication tools like 3D printing and CNC milling, we create one-of-a-kind physical representations of generative art for both indoor and outdoor decoration.
+7. Esculturas 3D: Combinando métodos de escultura tradicionales con herramientas de fabricación digital como impresión 3D y fresado CNC, creamos representaciones físicas únicas de arte generativo tanto para decoración interior como exterior.
 
-Our versatility in handling diverse generative art formats and installations allows us to accommodate various artistic visions and decoration needs, ensuring a tailored and comprehensive approach to incorporating generative art in interior and exterior design.
+Nuestra versatilidad en el manejo de diversos formatos de arte generativo e instalaciones nos permite adaptarnos a diferentes visiones artísticasy necesidades de decoración, asegurando un enfoque integral y personalizado para incorporar el arte generativo en el diseño interior y exterior.
 
-## Scope of Services
+## Alcance de los servicios
 
-Our comprehensive installation service for generative art decorations is designed to address all aspects of the process, from initial planning to on-site supervision. Our range of services includes:
+Nuestro completo servicio de instalación para decoraciones de arte generativo está diseñado para abordar todos los aspectos del proceso, desde la planificación inicial hasta la supervisión en el lugar. Nuestra gama de servicios incluye:
 
-1. Site Assessment and Planning: We perform a thorough evaluation of the decoration site, identifying potential challenges or opportunities, and develop a detailed plan for the installation. This includes determining optimal artwork layouts, identifying technical requirements, and ensuring space preparation.
+1. Evaluación del sitio y planificación: Realizamos una evaluación exhaustiva del lugar de la decoración, identificando posibles desafíos u oportunidades, y desarrollamos un plan detallado para la instalación. Esto incluye determinar las disposiciones óptimas de las obras de arte, identificar los requisitos técnicos y garantizar la preparación del espacio.
 
-2. Equipment Sourcing and Setup: Our team procures all necessary equipment for the generative art installation, such as high-performance computers, projectors, screens, and audio systems. We ensure that all equipment is of the highest quality and properly configured to meet exhibition-specific needs.
+2. Adquisición y configuración del equipo: Nuestro equipo adquiere todo el equipo necesario para la instalación del arte generativo, como computadoras de alto rendimiento, proyectores, pantallas y sistemas de audio. Nos aseguramos de que todo el equipo sea de la más alta calidad y esté configurado correctamente para satisfacer las necesidades específicas de la exhibición.
 
-3. Technical Support and Troubleshooting: Our experienced technicians are available throughout the installation process to address any technical issues that may arise, providing on-site support to ensure optimal equipment functioning and efficient issue resolution.
+3. Soporte técnico y solución de problemas: Nuestros técnicos experimentados están disponibles durante todo el proceso de instalación para abordar cualquier problema técnico que pueda surgir, brindando soporte en el sitio para garantizar un funcionamiento óptimo del equipo y una resolución eficiente de problemas.
 
-4. Custom Software Development and Integration: If your generative art decoration requires custom software solutions, our skilled developers can create and integrate bespoke applications tailored to your unique needs. This can include custom algorithms, real-time data integration, or interactive elements designed to enhance the visitor experience.
+4. Desarrollo e integración de software personalizado: Si su decoración de arte generativo requiere soluciones de software personalizadas, nuestros desarrolladores expertos pueden crear e integrar aplicaciones a medida adaptadas a sus necesidades específicas. Esto puede incluir algoritmos personalizados, integración de datos en tiempo real o elementos interactivos diseñados para mejorar la experiencia del visitante.
 
-5. On-site Supervision and Management during the Exhibition: Our team remains on-site throughout the exhibition, providing ongoing supervision and management to ensure everything runs smoothly. We handle unforeseen challenges and coordinate with other exhibition staff to guarantee a seamless, engaging, and immersive experience for visitors in both interior and exterior settings.
+5. Supervisión y gestión en el lugar durante la exhibición: Nuestro equipo permanece en el lugar durante toda la exhibición, brindando supervisión y gestión continuas para garantizar que todo funcione sin problemas. Abordamos desafíos imprevistos y coordinamos con el personal de la exhibición para garantizar una experiencia fluida, atractiva e inmersiva para los visitantes en entornos interiores y exteriores.
 
-## Technical Expertise
+## Experticia técnica
 
-Our experts have a profound understanding of the tools and techniques required to bring generative art to life in various interior and exterior exhibition settings. Here are some areas of our technical expertise:
+Nuestros expertos tienen un profundo conocimiento de las herramientas y técnicas necesarias para dar vida al arte generativo en diferentes entornos de exposición interior y exterior. Aquí hay algunas áreas de nuestra experiencia técnica:
 
-1. Real-time graphics and rendering: Our team is proficient in developing and implementing real-time graphics and rendering technologies, using advanced software and hardware solutions to create stunning visual effects that dynamically respond to user inputs or data changes, ensuring captivating and interactive experiences.
+1. Gráficos en tiempo real y renderizado: Nuestro equipo es experto en desarrollar e implementar tecnologías de gráficos y renderizado en tiempo real, utilizando soluciones avanzadas de software y hardware para crear efectos visuales impresionantes que responden dinámicamente a las entradas del usuario o cambios de datos, garantizando experiencias cautivadoras e interactivas.
 
-2. Projection mapping: Our specialists excel in projection mapping, which involves projecting images or animations onto irregular surfaces to create immersive visual displays. This technique enables us to transform exhibition spaces into enthralling environments that showcase generative art in innovative and unexpected ways.
+2. Mapeo de proyección: Nuestros especialistas dominan el mapeo de proyección, que implica proyectar imágenes o animaciones en superficies irregulares para crear exhibiciones visuales inmersivas. Esta técnica nos permite transformar espacios de exhibición en entornos fascinantes que muestran el arte generativo de manera innovadora y sorprendente.
 
-3. Interactive installations: Our team adeptly designs and develops interactive installations that foster audience engagement and participation, creating installations that respond to user inputs such as touch, movement, or sound for immersive and interactive visitor experiences.
+3. Instalaciones interactivas: Nuestro equipo diseña e implementa hábilmente instalaciones interactivas que fomentan la participación y el compromiso del público, creando instalaciones que responden a las entradas del usuario, como el tacto, el movimiento o el sonido, para ofrecer experiencias inmersivas e interactivas a los visitantes.
 
-4. Augmented reality (AR) and virtual reality (VR): Our dedicated team of AR and VR experts create cutting-edge experiences that merge the physical and digital worlds. By incorporating AR and VR technologies into generative art exhibitions, we offer visitors unique, immersive experiences that transcend traditional art exhibitions.
+4. Realidad aumentada (AR) y realidad virtual (VR): Nuestro dedicado equipo de expertos en AR y VR crea experiencias de vanguardia que fusionan los mundos físico y digital. Al incorporar tecnologías de AR y VR en las exposiciones de arte generativo, ofrecemos a los visitantes experiencias inmersivas únicas que trascienden las exposiciones de arte tradicionales.
 
-5. Custom hardware design and fabrication: Our team includes skilled engineers and fabricators who can design and build custom hardware solutions for generative art installations. We collaborate closely with artists and other partners to develop specialized hardware tailored to each project's specific needs, ensuring seamless technology and art integration.
+5. Diseño y fabricación de hardware personalizado: Nuestro equipo incluye ingenieros y fabricantes capacitados que pueden diseñar y construir soluciones de hardware personalizadas para instalaciones de arte generativo. Colaboramos estrechamente con artistas y otros socios para desarrollar hardware especializado adaptado a las necesidades específicas de cada proyecto, garantizando una integración perfecta de tecnología y arte.
 
-By blending our team's technical expertise with our passion for generative art, we aim to create innovative and memorable exhibitions that demonstrate the boundless potential of creativity and technology working in unison.
+Al combinar la experiencia técnica de nuestro equipo con nuestra pasión por el arte generativo, nuestro objetivo es crear exposiciones innovadoras y memorables que demuestren el potencial ilimitado de la creatividad y la tecnología trabajando en conjunto.
 
-# Articles
+# Artículos
 
 [Expanding Human Perception through Generative Art and Technology](https://medium.com/generatedart/expanding-human-perception-through-generative-art-and-technology-dd0338f9787d)
 
