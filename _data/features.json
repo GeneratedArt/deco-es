@@ -1,7 +1,7 @@
 [
   {
-    "title": "Public space",
-    "description": "Generative art in public spaces enhances urban landscapes with dynamic, interactive experiences, fostering community and promoting sustainability. This fusion of technology and artistic expression enriches city culture and connects diverse inhabitants.",
+    "title": "Espacio público",
+    "description": "El arte generativo en espacios públicos mejora los paisajes urbanos con experiencias dinámicas e interactivas, fomentando la comunidad y promoviendo la sostenibilidad. Esta fusión de tecnología y expresión artística enriquece la cultura de la ciudad y conecta a sus diversos habitantes.",
     "image": {
       "url": "images/illustrations/public-space.png",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Private space",
-    "description": "Integrating natural aesthetics into private spaces by creating soothing and inspiring surroundings. This combination fosters a sense of balance, encouraging productivity in workspaces and offering peaceful retreats in residential areas.",
+    "title": "Espacio privado",
+    "description": "Integrando estéticas naturales en espacios privados mediante la creación de entornos relajantes e inspiradores. Esta combinación fomenta un sentido de equilibrio, impulsando la productividad en los espacios de trabajo y ofreciendo refugios tranquilos en áreas residenciales.",
     "image": {
       "url": "images/illustrations/art-installation.png",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Events",
-    "description": "Incorporating interactive and dynamic decorative elements enhances the overall experience by captivating attendees and stimulating engagement. These visually striking components create immersive atmospheres, forging memorable impressions and fostering connections among participants.",
+    "title": "Eventos",
+    "description": "Incorporar elementos decorativos interactivos y dinámicos mejora la experiencia general al cautivar a los asistentes y estimular la participación. Estos componentes visualmente impactantes crean atmósferas inmersivas, forjando impresiones memorables y fomentando conexiones entre los participantes.",
     "image": {
       "url": "images/illustrations/events.png",
       "width": 80,
