@@ -7,12 +7,12 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-We are excited to support venues and generative artists who wish to showcase generative art works in captivating exhibitions. Whether you're a venue looking to organize a generative art exhibition or an artist seeking the perfect space to display your creations, you've come to the right place.
+Estamos emocionados de apoyar a los lugares y artistas generativos que deseen exhibir obras de arte generativo en exposiciones cautivadoras. Ya sea que seas un lugar que busca organizar una exposición de arte generativo o un artista en busca del espacio perfecto para mostrar tus creaciones, has llegado al lugar correcto.
 
-Our team of professionals is dedicated to helping you create a memorable and engaging exhibition experience for your audience. We offer a range of services tailored to your specific needs, including technical support, exhibition design, promotion, and more. [See full list of services](/services)
+Nuestro equipo de profesionales se dedica a ayudarte a crear una experiencia de exposición memorable y atractiva para tu público. Ofrecemos una variedad de servicios adaptados a tus necesidades específicas, incluido el soporte técnico, diseño de exposiciones, promoción y más. [Ver lista completa de servicios](/services)
 
-To get started, please fill out the application form below with the required information about your venue or artwork. This will help us understand your needs and preferences, enabling us to provide the best possible support for your exhibition.
+Para comenzar, completa el formulario de solicitud a continuación con la información requerida sobre tu lugar u obra de arte. Esto nos ayudará a comprender tus necesidades y preferencias, permitiéndonos brindar el mejor apoyo posible para tu exposición.
 
-If you would like to receive a personalized quote for our services, please follow the provided link to our [quote request form](/quote). By submitting your details, our team will be able to assess your requirements and provide you with a comprehensive and competitive quote.
+Si deseas recibir una cotización personalizada de nuestros servicios, sigue el enlace proporcionado a nuestro [formulario de solicitud de cotización](/quote). Al enviar tus datos, nuestro equipo podrá evaluar tus requisitos y proporcionarte una cotización completa y competitiva.
 
-We look forward to collaborating with you and bringing your vision to life in a stunning generative art exhibition.
+Esperamos colaborar contigo y dar vida a tu visión en una impresionante exposición de arte generativo.
