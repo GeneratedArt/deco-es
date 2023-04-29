@@ -1,18 +1,18 @@
 main:
-  - name: "Home"
+  - name: "Recepción"
     url: "/"
     weight: 1
-  - name: "About"
-    url: "/about/"
+  - name: "Acerca de"
+    url: "/acerca/"
     weight: 2
-  - name: "Services"
-    url: "/services/"
+  - name: "Servicios"
+    url: "/servicios/"
     weight: 3
-  - name: "Catalog"
-    url: "/catalog/"
+  - name: "Catalogo"
+    url: "/catalogo/"
     weight: 4
-  - name: "Contact"
-    url: "/contact/"
+  - name: "Contacto"
+    url: "/contacto/"
     weight: 5
   - name: "/en"
     url: "https://deco.generatedart.com"
