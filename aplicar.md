@@ -1,8 +1,8 @@
 ---
-title: Apply
+title: Aplicar
 layout: teams
-description: Apply
-permalink: "/apply/"
+description: Aplicar
+permalink: "/aplicar/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
