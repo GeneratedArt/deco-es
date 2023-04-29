@@ -4,30 +4,30 @@ date: 2019-01-28T15:15:26+10:00
 weight: 2
 ---
 
-Renting generative art offers several benefits, including cost-effectiveness, flexibility, and the ability to refresh your space frequently. 
+Alquilar arte generativo ofrece varios beneficios, incluyendo rentabilidad, flexibilidad y la capacidad de renovar su espacio con frecuencia.
 
 ![Luminous Window Art](/images/illustrations/lumi-window.png)
 
-By renting, you can access captivating and innovative art pieces without the financial commitment of purchasing them outright. 
+Al alquilar, puede acceder a piezas de arte innovadoras y cautivadoras sin el compromiso financiero de comprarlas directamente.
 
 
-# Introduction
+# Introducción
 
-Elevate your events and spaces with our unique physical generative art rental services, offering a diverse range of captivating and interactive art pieces to suit your needs. Our collection includes stunning, algorithm-driven sculptures, installations, and wall art, designed to create a dynamic and engaging atmosphere. Whether for a temporary exhibition, corporate event, or a special occasion, our rental services provide an accessible and flexible solution to incorporate generative art into your space.
+Eleve sus eventos y espacios con nuestros exclusivos servicios de alquiler de arte generativo físico, ofreciendo una amplia gama de piezas de arte cautivadoras e interactivas para satisfacer sus necesidades. Nuestra colección incluye impresionantes esculturas, instalaciones y arte mural impulsados por algoritmos, diseñados para crear un ambiente dinámico y atractivo. Ya sea para una exposición temporal, un evento corporativo o una ocasión especial, nuestros servicios de alquiler brindan una solución accesible y flexible para incorporar arte generativo en su espacio.
 
-# Scope of Services
+# Alcance de los servicios
 
-We understand that each client's requirements are unique, and therefore, our terms of contracts are determined on a case-by-case basis. Our comprehensive scope of services includes:
+Entendemos que los requisitos de cada cliente son únicos, y por lo tanto, nuestros términos de contratos se determinan caso por caso. Nuestro amplio alcance de servicios incluye:
 
-- Artwork Consultation: Collaborate with clients to understand their vision, preferences, and requirements, ensuring the selected generative art pieces align with their expectations and complement the space.
-- Artwork Selection: Provide expert guidance in choosing the most suitable generative art pieces from our extensive collection, based on the client's theme, aesthetic, and purpose.
-- Delivery and Installation: Safely transport and install the rented generative art pieces at the designated location, ensuring optimal placement and presentation.
-- On-site Support: Offer on-site assistance during the event or exhibition to address any concerns, provide guidance on interacting with the art pieces, and ensure a seamless experience for guests.
-- Dismantling and Return: Carefully dismantle and transport the generative art pieces back to our facility at the end of the rental period, leaving the space clean and ready for use.
-- Custom Rental Duration: Accommodate various rental durations, from short-term events to longer exhibitions, providing clients with the flexibility to enjoy the generative art pieces for their desired time frame.
+- Consulta de obras de arte: Colaborar con los clientes para comprender su visión, preferencias y requisitos, asegurando que las piezas de arte generativo seleccionadas se alineen con sus expectativas y complementen el espacio.
+- Selección de obras de arte: Brindar orientación experta en la elección de las piezas de arte generativo más adecuadas de nuestra extensa colección, basándose en el tema, la estética y el propósito del cliente.
+- Entrega e instalación: Transportar e instalar de manera segura las piezas de arte generativo alquiladas en la ubicación designada, asegurando una ubicación y presentación óptimas.
+- Soporte en el lugar: Ofrecer asistencia en el lugar durante el evento o la exposición para abordar cualquier inquietud, proporcionar orientación sobre cómo interactuar con las piezas de arte y garantizar una experiencia fluida para los invitados.
+- Desmontaje y devolución: Desmontar y transportar cuidadosamente las piezas de arte generativo a nuestras instalaciones al final del período de alquiler, dejando el espacio limpio y listo para su uso.
+- Duración personalizada del alquiler: Adaptarse a varias duraciones de alquiler, desde eventos a corto plazo hasta exposiciones más largas, proporcionando a los clientes la flexibilidad para disfrutar de las piezas de arte generativo durante el tiempo que deseen.
 
-Transform your events and spaces with our physical generative art rental services, adding an unparalleled level of creativity and innovation that will captivate and inspire your guests.
+Transforme sus eventos y espacios con nuestros servicios de alquiler de arte generativo físico, agregando un nivel incomparable de creatividad e innovación que cautivará e inspirará a sus invitados.
 
-# Articles 
+# Artículos
 
 [Scaling Ethereum: Exploring Layer 2 Solutions](https://medium.com/coinmonks/scaling-ethereum-exploring-layer-2-solutions-1fd26943f55e)
