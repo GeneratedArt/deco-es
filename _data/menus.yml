@@ -31,23 +31,23 @@ main:
     weight: 10
 
 footer:
-  - name: "Main site"
+  - name: "Sitio principal"
     url: "https://generatedart.com"
     weight: 1
   - name: "Shop"
     url: "https://shop.generatedart.com"
     weight: 2
-  - name: "Exposition"
-    url: "https://expo.generatedart.com"
+  - name: "Exposición"
+    url: "https://expo.es.generatedart.com"
     weight: 3
-  - name: "Decoration"
-    url: "https://deco.generatedart.com"
+  - name: "Decoración"
+    url: "https://deco.es.generatedart.com"
     weight: 4
-  - name: "Research"
+  - name: "Investigación"
     url: "https://medium.com/generatedart"
     weight: 5
-  - name: "Apply"
-    url: "/apply/"
+  - name: "Aplicar"
+    url: "/aplicar/"
     weight: 6
 
 
