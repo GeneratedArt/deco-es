@@ -1,32 +1,31 @@
 ---
-title: "Digital display"
+title: "Pantalla digital"
 date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
-We specialize in digital display installations that showcase the most innovative works of generative art from around the world, with a focus on promoting and advancing the field.
+Nos especializamos en instalaciones de pantallas digitales que exhiben las obras más innovadoras de arte generativo de todo el mundo, con un enfoque en promover y avanzar en el campo.
 
 ![Digital display](/images/illustrations/digital-display.png)
 
-Our team is comprised of computer system experts, creative coders, and digital artists who possess a wealth of knowledge and expertise in their respective fields. They work together seamlessly to create visually stunning graphics and animations that captivate and engage audiences.
+Nuestro equipo está compuesto por expertos en sistemas informáticos, codificadores creativos y artistas digitales que poseen un gran conocimiento y experiencia en sus respectivos campos. Trabajan juntos de manera fluida para crear gráficos y animaciones visualmente impactantes que cautivan y atraen al público.
 
-# Introduction
+# Introducción
 
-Discover the transformative power of our digital display installation services, designed to create captivating and dynamic visual experiences in any space. Our team is well-versed in a variety of display technologies, including LCD, LED, OLED, projection, and plasma displays, enabling us to cater to your specific requirements. From high-quality images and fast motion to vibrant colors and large-scale visuals, we provide the ideal solution for your unique needs.
+Descubra el poder transformador de nuestros servicios de instalación de pantallas digitales, diseñados para crear experiencias visuales cautivadoras y dinámicas en cualquier espacio. Nuestro equipo está bien versado en una variedad de tecnologías de pantalla, incluidas LCD, LED, OLED, proyección y pantallas de plasma, lo que nos permite adaptarnos a sus requisitos específicos. Desde imágenes de alta calidad y movimiento rápido hasta colores vibrantes y visuales a gran escala, ofrecemos la solución ideal para sus necesidades únicas.
 
-# Scope of services
+# Alcance de los servicios
 
-We pride ourselves on delivering customized digital display installations that exceed expectations. Our services encompass:
+Nos enorgullecemos de ofrecer instalaciones de pantallas digitales personalizadas que superan las expectativas. Nuestros servicios abarcan:
 
-- Display Selection: We'll help you identify the perfect digital display technology for your needs, considering factors such as size, viewing distance, and desired image quality.
-- Hardware and Software Procurement: We take care of sourcing and renting the essential hardware and software components, including digital displays, computer systems, and fixation systems.
-- Installation and Setup: Our skilled team ensures a seamless installation process, expertly integrating the digital display into your environment for optimal performance.
-- Ongoing Support and Maintenance: To maintain an engaging and immersive visual experience, we offer continued support and maintenance services for your digital display.
+- Selección de pantalla: Le ayudaremos a identificar la tecnología de pantalla digital perfecta para sus necesidades, considerando factores como tamaño, distancia de visualización y calidad de imagen deseada.
+- Adquisición de hardware y software: Nos encargamos de obtener y alquilar los componentes esenciales de hardware y software, incluidas pantallas digitales, sistemas informáticos y sistemas de fijación.
+- Instalación y configuración: Nuestro equipo experto garantiza un proceso de instalación fluido, integrando de manera experta la pantalla digital en su entorno para un rendimiento óptimo.
+- Soporte y mantenimiento continuo: Para mantener una experiencia visual atractiva e inmersiva, ofrecemos servicios de soporte y mantenimiento continuos para su pantalla digital.
 
-Trust our digital display installation services to enhance your space with striking, dynamic visuals that engage and inspire audiences.
+Confíe en nuestros servicios de instalación de pantallas digitales para mejorar su espacio con visuales impactantes y dinámicos que involucren e inspiren al público.
 
-
-# Articles
+# Artículos
 
 [Generative art and the blurred lines of authenticity](https://medium.com/generatedart/generative-art-and-the-blurred-lines-of-authenticity-80d5417d8c03)
 
