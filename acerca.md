@@ -1,7 +1,7 @@
 ---
 title: Acerca de
 layout: page
-description: About
+description: Acerca de
 bodyClass: page-about
 ---
 
